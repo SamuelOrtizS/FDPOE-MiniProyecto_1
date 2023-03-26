@@ -1,3 +1,17 @@
+/*
+  ____                             _  ___       _   _      ____
+ / ___|  __ _ _ __ ___  _   _  ___| |/ _ \ _ __| |_(_)____/ ___|
+ \___ \ / _` | '_ ` _ \| | | |/ _ \ | | | | '__| __| |_  /\___ \
+  ___) | (_| | | | | | | |_| |  __/ | |_| | |  | |_| |/ /  ___) |
+ |____/ \__,_|_| |_| |_|\__,_|\___|_|\___/|_|   \__|_/___||____/
+ Creado por: Samuel Ortiz Sarasti (202127049)
+ Para el curso de Fundamentos de Programacion Orientada a Eventos
+ Mini Proyecto 1
+ Creacion de una calculadora simple funcional con GUI
+ Domingo 26 de Marzo de 2023
+ */
+
+
 package fdpoe.univalle;
 
 import javax.swing.*;
